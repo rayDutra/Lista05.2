@@ -17,7 +17,7 @@ function Painel() {
         <p>"A escolha de imóvel, no nosso caso uma casa, não é uma tarefa fácil. A escolha de um profissional qualificado poupou o nosso tempo e nos ajudou a encontrar o que realmente queríamos"</p>
       </div>
       <div className="card">
-        <img src={foto02} alt="Imagem" />
+        <img src={foto01} alt="Imagem" />
         <h2>Ana Bruck</h2>
         <h4>"Eu recomendo a Letícia, pois o atendimento dele fez toda diferença"</h4>
         <p>"A escolha de imóvel, no nosso caso uma casa, não é uma tarefa fácil. A escolha de um profissional qualificado poupou o nosso tempo e nos ajudou a encontrar o que realmente queríamos"</p>
